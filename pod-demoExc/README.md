@@ -1,4 +1,4 @@
-# kubernetes-beginner- Lab 00- Kubernetes Setup
+# kubernetes-beginner: Lab 00- Kubernetes Setup
  ## Q1) How many nodes are part of the cluster?
     Ans: kubectl get nodes
  ## Q2) What is the version of Kubernetes running on the nodes?
@@ -6,7 +6,7 @@
  ## Q3) What is the flavour and version of Operating System on which the Kubernetes nodes are running
     Ans: kubectl get nodes -o wide
 
-# kubernetes-beginner- Lab 01- Pods With YAML
+# kubernetes-beginner: Lab 01- Pods With YAML
  ## Q1) How Many pods exist on the system? 
     Ans: kubectl get nodes
  ## Q2) Create a new pod with the nginx image.
