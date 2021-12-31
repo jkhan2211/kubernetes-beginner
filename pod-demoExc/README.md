@@ -17,5 +17,5 @@
  ## Q4) Delete webapp pod?
     Ans: kubectl delete pod webapp
  ## Q5) Create a new pod with the name redis and with the image redis123.
- ## Use a pod-definition YAML file. And yes the image name is wrong!
+ ## Use a pod-definition YAML file.
     Ans: kubectl run redis --image=redis123
